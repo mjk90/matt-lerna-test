@@ -1,10 +1,14 @@
 export default class GetInfo {
-  constructor(){}
+  constructor() { }
 
-  hello(){
+  getMessage() {
+    return this.hello() + " " + this.world();
+  }
+
+  hello() {
     return "Hello";
   }
-  world(){
-    return "World"; 
+  world() {
+    return "World";
   }
 }
