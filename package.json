@@ -1,5 +1,6 @@
 {
   "name": "root",
+  "version": "independent",
   "private": false,
   "devDependencies": {
     "@types/node": "^11.13.4",
