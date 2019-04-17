@@ -1,5 +1,5 @@
 {
-  "name": "ui",
+  "name": "@matt-test-org/ui",
   "version": "0.2.0",
   "private": false,
   "dependencies": {
@@ -37,5 +37,5 @@
   "files": [
     "lib"
   ],
-  "gitHead": "02a91c0602f8bf921aba9f57c10da445daecabb4"
+  "gitHead": "6ab0838d21a0fb2f8b8df68108873fbc661d6a00"
 }
