@@ -2,14 +2,20 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+import api from '@matt-test-org/api';
+
 class App extends Component {
+
   render() {
+    let a = new api();
+    let message = a.hello() + " " + a.world();
+
     return (
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+            {message}
           </p>
           <a
             className="App-link"
