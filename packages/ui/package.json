@@ -42,7 +42,8 @@
   },
   "files": [
     "lib",
-    "src"
+    "src",
+    "public"
   ],
   "repository": {
     "type": "git",
