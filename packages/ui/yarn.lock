@@ -852,10 +852,10 @@
   resolved "https://registry.yarnpkg.com/@csstools/convert-colors/-/convert-colors-1.4.0.tgz#ad495dc41b12e75d588c6db8b9834f08fa131eb7"
   integrity sha512-5a6wqoJV/xEdbRNKVo6I4hO3VjyDq//8q2f9I6PBAvMesJHFauXDorcNCsr9RzvsZnaWi5NYCcfyqP1QeFHFbw==
 
-"@matt-test-org/api@^0.3.0":
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/@matt-test-org/api/-/api-0.3.0.tgz#15797e7fb23e4450846692915f535b242599f7ae"
-  integrity sha512-ASZwnG8sWc57KK+jppsEY11EWsJPi8nXzWCfYNzywfP+vOjwiPvM9YREtKrmHAu/ybK2gsr72hrE9maIvLeorg==
+"@matt-test-org/api@^0.4.0":
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/@matt-test-org/api/-/api-0.4.0.tgz#c208b1b9f020ac1a1eaaeb544053a12f323e9145"
+  integrity sha512-tBTMe3fWjktxu22HPYhCGqJgprbQczDxyRQQiv2QQNHK+4okHuUfexQwvTttMlaLk+uoLwJ0WlbYa7WHT2v2NA==
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"

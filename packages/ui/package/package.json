@@ -1,7 +1,7 @@
 {
-  "name": "@ptb1/matt-test-package",
+  "name": "@matt-test-org/ui",
   "version": "0.4.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@matt-test-org/api": "^0.4.0",
     "react": "^16.8.6",
@@ -19,7 +19,7 @@
     "extends": "react-app"
   },
   "publishConfig": {
-    "access": "private"
+    "access": "public"
   },
   "browserslist": [
     ">0.2%",
@@ -29,28 +29,21 @@
   ],
   "description": "> TODO: description",
   "author": "Matthew Kelly <matthew.kelly@block.one>",
-  "homepage": "https://github.com/mjk90/matt-lerna-test#readme",
+  "homepage": "",
   "license": "ISC",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "babel": {
-    "presets": [
-      "@babel/react"
-    ]
+    "presets": [ "@babel/react" ]
   },
   "directories": {
-    "lib": "lib"
+    "lib": "lib",
+    "src": "src",
+    "test": "__tests__"
   },
   "files": [
     "lib",
     "src"
   ],
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/mjk90/matt-lerna-test.git"
-  },
-  "bugs": {
-    "url": "https://github.com/mjk90/matt-lerna-test/issues"
-  }
+  "gitHead": "6ab0838d21a0fb2f8b8df68108873fbc661d6a00"
 }
