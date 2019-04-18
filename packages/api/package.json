@@ -15,7 +15,7 @@
     "lib"
   ],
   "publishConfig": {
-    "access": "public"
+    "access": "private"
   },
   "scripts": {
     "tsc": "tsc",

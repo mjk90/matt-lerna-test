@@ -1,13 +1,19 @@
 {
   "name": "root",
   "version": "independent",
-  "private": false,
+  "private": true,
   "devDependencies": {
     "@types/node": "^11.13.4",
     "lerna": "^3.13.2",
     "typescript": "^3.4.3"
   },
+  "publishConfig": {
+    "access": "private"
+  },
   "scripts": {
     "publish": "lerna run tsc && lerna publish"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.4.3"
   }
 }
