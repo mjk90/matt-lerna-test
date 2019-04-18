@@ -12,7 +12,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "postinstall": "yarn & yarn start",
+    "postinstall": "./postinstall.sh",
     "publish:npm": "SET NODE_ENV=production && rm -rf dist && mkdir dist && npx babel src/ --out-dir dist --copy-files"
   },
   "eslintConfig": {
