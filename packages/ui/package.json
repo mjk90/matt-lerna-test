@@ -1,5 +1,5 @@
 {
-  "name": "@ptb1/matt-test-package",
+  "name": "@ptb1/matt-test-package-ui",
   "version": "0.4.0",
   "private": true,
   "dependencies": {
