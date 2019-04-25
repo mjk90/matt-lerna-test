@@ -6,7 +6,7 @@
   EOSIO Explorer
 </h1>
   
-
+<br />
 <p  align="center">
 
 <a  href="https://twitter.com/intent/follow?screen_name=block_one_">
