@@ -8,18 +8,18 @@
 <br />
 
 <p align="center">
-  <span>
+  <!-- <span>
     <img  alt="NPM Downloads"  src="https://img.shields.io/npm/dm/@eosio/ui-gui-nodeos.svg?maxAge=43200&label=v7%20downloads"  />
-  </span>
+  </span> -->
   <span>
     <img alt="GitHub Downloads"  src="https://img.shields.io/github/downloads/EOSIO/eosio-toppings/total.svg"  />
   </span>
 </p>
 
 <p align="center">
-  <span>
+  <!-- <span>
     <img alt="NPM Version"  src="https://img.shields.io/npm/v/@eosio/ui-gui-nodeos.svg"  />
-  </span>
+  </span> -->
   <span>
     <img alt="License"  src="https://img.shields.io/github/license/EOSIO/eosio-toppings.svg"  />
   </span>
