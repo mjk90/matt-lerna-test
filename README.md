@@ -1,13 +1,10 @@
 
 <p  align="center">
-  <img width="150" height="150" src="https://static.eos.io/images/Landing/SectionTokenSale/eos_spinning_logo.gif" alt="">
+  <img width="200" height="200" src="https://static.eos.io/images/Landing/SectionTokenSale/eos_spinning_logo.gif" alt="">
 </p>
-<p  align="center">
+<h1  align="center">
   EOSIO Explorer
-</p>
-
-  
-
+</h1>
   
 
 <p  align="center">
